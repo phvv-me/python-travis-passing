@@ -10,3 +10,6 @@ def add(x: int, y: int) -> int:
 def test_add():
     assert add(10, 11) == 21
     assert add(5, -5) == 0
+
+
+print("Hello World")
